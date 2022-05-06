@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nekrasalt
 - 👀 I’m interested in ...web development
+- Mastered HTML and CSS
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You ca reach me via ...bpand345@gmail.com
